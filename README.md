@@ -13,4 +13,4 @@ This Python script updates the number of players who have achieved 200 million X
 Run the script using Python 3:
 
 ```bash
-python update_200mxp_table.py
+python Old_School_Hiscores_scraper.py
