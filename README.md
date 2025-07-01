@@ -8,9 +8,15 @@ This Python script updates the number of players who have achieved 200 million X
 - Automatically checks and updates progress toward 200m XP goals.
 - Outputs data in a format ready for Wiki module updates.
 
+
 ## Usage
+
+Use trinket.io and copy/paste the code from Old School Hiscores scraper.py
+
+OR
 
 Run the script using Python 3:
 
 ```bash
 python Old_School_Hiscores_scraper.py
+
